@@ -16,7 +16,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(Images/background......jpg);
+    background-image: url(Images/back-p.png);
     background-size: cover;
     background-position: center;
 }
@@ -337,7 +337,7 @@ nav .fa-solid{
 
 @media only screen and (max-width: 600px) {
     #header{
-        background-image: url(Images/background......jpg);
+        background-image: url(Images/back-p.png);
     }
     .header-text{
         margin-top: 40%;
